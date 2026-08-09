@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.2-test/obbligato-0.2.apk",
-  "notes": "Test release, used to check that in-app updating works. Nothing in your library, annotations or license is affected."
+  "versionCode": 3,
+  "versionName": "0.3",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.3/obbligato-0.3.apk",
+  "notes": "Jump straight to a hymn number. Tag a hymnal, step through it once to build its index, and after that the bookmark button opens a number pad: type the hymn number and you are there. Service music numbered with a letter, like S115, works too, and a link can point at a hymn as well as a page. Importing a large scan now shows its progress instead of looking frozen, and sending very large pieces to a second tablet is more reliable. Your library, annotations and licence are not affected."
 }
