@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.3/obbligato-0.3.apk",
-  "notes": "Jump straight to a hymn number. Tag a hymnal, step through it once to build its index, and after that the bookmark button opens a number pad: type the hymn number and you are there. Service music numbered with a letter, like S115, works too, and a link can point at a hymn as well as a page. Importing a large scan now shows its progress instead of looking frozen, and sending very large pieces to a second tablet is more reliable. Your library, annotations and licence are not affected."
+  "versionCode": 4,
+  "versionName": "0.4",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.4/obbligato-0.4.apk",
+  "notes": "Fixes random screen flashes while turning pages. On pieces with cropping applied, the app could run out of memory and quietly restart itself mid-piece: the page appeared to blink as though a new piece had opened, and the pen colour reset to black. It now measures how much memory each rendered page actually uses instead of assuming they are all the same size. On heavily cropped pieces an occasional page turn may take a moment longer. Also, when a library sync fails to connect it now says why on screen instead of only saying it is retrying. Your library, annotations and licence are not affected."
 }
