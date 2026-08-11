@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.4/obbligato-0.4.apk",
-  "notes": "Fixes random screen flashes while turning pages. On pieces with cropping applied, the app could run out of memory and quietly restart itself mid-piece: the page appeared to blink as though a new piece had opened, and the pen colour reset to black. It now measures how much memory each rendered page actually uses instead of assuming they are all the same size. On heavily cropped pieces an occasional page turn may take a moment longer. Also, when a library sync fails to connect it now says why on screen instead of only saying it is retrying. Your library, annotations and licence are not affected."
+  "versionCode": 5,
+  "versionName": "0.5",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.5/obbligato-0.5.apk",
+  "notes": "Fixes for tabs and duplicate pieces. You can now close the last open tab again: if a piece had been deleted while its tab was still open, that tab lingered invisibly and blocked closing with the message \"That piece is no longer in your library\". Importing a file you already have now stops and tells you, instead of quietly making a second copy - two copies look identical in the library, but your markings only live on one of them. There is also a new \"Find duplicate pieces\" option in the library menu, which lists any piece appearing more than once and shows how many markings are on each copy and when each was imported, so you can keep the right one. Your library, annotations and licence are not affected."
 }
