@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.5",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.5/obbligato-0.5.apk",
-  "notes": "Fixes for tabs and duplicate pieces. You can now close the last open tab again: if a piece had been deleted while its tab was still open, that tab lingered invisibly and blocked closing with the message \"That piece is no longer in your library\". Importing a file you already have now stops and tells you, instead of quietly making a second copy - two copies look identical in the library, but your markings only live on one of them. There is also a new \"Find duplicate pieces\" option in the library menu, which lists any piece appearing more than once and shows how many markings are on each copy and when each was imported, so you can keep the right one. Your library, annotations and licence are not affected."
+  "versionCode": 6,
+  "versionName": "0.6",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.6/obbligato-0.6.apk",
+  "notes": "The duplicate finder now shows each copy's tags. When a piece appears more than once, each copy lists its tags alongside its markings and import date, and says \"no tags\" when it has none. That is often the quickest way to tell which copy is the one you actually built up, since copies that arrived from another tablet usually carry none of your own tags. Your library, annotations and licence are not affected."
 }
