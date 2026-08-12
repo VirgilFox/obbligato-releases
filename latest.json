@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.7/obbligato-0.7.apk",
-  "notes": "Send pieces or a playlist to another tablet, and safer backups. In the library, use \"Select pieces\" then \"Send to tablet\" to send just those pieces; a playlist can be sent the same way from its own menu, and the other tablet rebuilds it from the copies it already has plus whatever is missing. Only pieces the other tablet lacks are transferred, and nothing comes back to yours. The other tablet needs its own Sync Library screen open, exactly as for a normal sync. Backups now show progress, can be cancelled (which deletes the incomplete file), hold the app while they run, and are checked after writing - a backup that cannot be restored is worse than none, so it will now tell you instead of reporting success. The library can also show which pieces arrived from a sync rather than being chosen by you, under \"Pieces that arrived by sync\", and a whole batch can be removed. Your library, annotations and licence are not affected."
+  "versionCode": 8,
+  "versionName": "0.8",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.8/obbligato-0.8.apk",
+  "notes": "Corrects a misleading backup message. In 0.7, a backup saved to a location the app could not read back was reported as FAILED, with advice to delete it. That was wrong: not being able to check a backup is not the same as the backup being bad, and the file was very probably fine. There are now three outcomes instead of two - saved and checked, failed the check (genuinely bad, delete it), and saved but not checked (written, unproven, keep it). If you want a backup proved, saving it to the tablet's own storage such as Downloads can normally be read back and verified; copy it elsewhere afterwards. Your library, annotations and licence are not affected."
 }
