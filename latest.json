@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.6/obbligato-0.6.apk",
-  "notes": "The duplicate finder now shows each copy's tags. When a piece appears more than once, each copy lists its tags alongside its markings and import date, and says \"no tags\" when it has none. That is often the quickest way to tell which copy is the one you actually built up, since copies that arrived from another tablet usually carry none of your own tags. Your library, annotations and licence are not affected."
+  "versionCode": 7,
+  "versionName": "0.7",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.7/obbligato-0.7.apk",
+  "notes": "Send pieces or a playlist to another tablet, and safer backups. In the library, use \"Select pieces\" then \"Send to tablet\" to send just those pieces; a playlist can be sent the same way from its own menu, and the other tablet rebuilds it from the copies it already has plus whatever is missing. Only pieces the other tablet lacks are transferred, and nothing comes back to yours. The other tablet needs its own Sync Library screen open, exactly as for a normal sync. Backups now show progress, can be cancelled (which deletes the incomplete file), hold the app while they run, and are checked after writing - a backup that cannot be restored is worse than none, so it will now tell you instead of reporting success. The library can also show which pieces arrived from a sync rather than being chosen by you, under \"Pieces that arrived by sync\", and a whole batch can be removed. Your library, annotations and licence are not affected."
 }
