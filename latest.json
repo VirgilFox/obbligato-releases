@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.11/obbligato-0.11.apk",
-  "notes": "Fixes for three things found while testing 0.10 with two tablets paired. A rotated page now reaches the second tablet's screen: the rotation was already crossing correctly, but the second tablet kept showing the old picture until something else made it redraw, and it now redraws straight away. The Obbligato logo no longer comes up rotated or tilted - when the first tablet goes to its Library the second shows the logo, and it was inheriting the rotation, or on some pages the deskew, of whatever page had been on screen a moment before. And setting a tablet to Slave now returns it to the reading screen, so it shows what the other tablet is showing straight away instead of sitting on the Library until you opened something or tapped Reader. Also redraws the 'Check for updates' icon, which was too easily confused with 'Import PDF' since both were an arrow pointing down into a container. Your library, annotations and licence are not affected."
+  "versionCode": 12,
+  "versionName": "0.12",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.12/obbligato-0.12.apk",
+  "notes": "Adds \"Export as Obbligato file\" to a piece's ⋯ menu. It saves one piece - the PDF, your annotations, bookmarks and any hymn index you have built on it - as a single file you can carry across to the Windows version on a memory stick or through Dropbox. Until now the only way to move a piece to Windows was to back up your entire library, which for a full library is hundreds of megabytes just to move one book. Your library, annotations and licence are not affected."
 }
