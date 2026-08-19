@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.14",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.14/obbligato-0.14.apk",
-  "notes": "Faster page turning when you move through several pages quickly.\n\nTurning a run of pages in a row could pause for a second and then jump to where you had got to. Two things were behind it. The tablet was drawing pages in the order they were asked for rather than putting the page you are actually looking at first, so the page on screen often waited behind pages you had already turned past. It could also draw the same page twice over.\n\nObbligato now also looks at how much free memory your tablet actually has and keeps as many pages ready as will comfortably fit, instead of using a fixed amount chosen for one particular tablet. On a tablet with memory to spare, more pages are ready before you reach them.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 15,
+  "versionName": "0.15",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.15/obbligato-0.15.apk",
+  "notes": "Tidier screens, and writing that keeps its thickness between tablets.\n\nThe \"Reader\" button now disappears on the library, organ and settings screens when nothing is open, instead of sitting there doing nothing.\n\nWriting done on one tablet used to arrive noticeably thinner on another, because a pen width was stored as a number of screen dots rather than as a size on the page — and the two tablets do not have the same number of dots across a page. Obbligato now records pen and highlighter width the same way it already records where a stroke sits: relative to the page. Writing made from now on keeps its thickness wherever you open it, and stays in proportion on a cropped page too.\n\nWriting you have already done is untouched and looks exactly as it did.\n\nYour library, annotations and licence are not affected."
 }
