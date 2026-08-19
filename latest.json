@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.12",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.12/obbligato-0.12.apk",
-  "notes": "Adds \"Export as Obbligato file\" to a piece's ⋯ menu. It saves one piece - the PDF, your annotations, bookmarks and any hymn index you have built on it - as a single file you can carry across to the Windows version on a memory stick or through Dropbox. Until now the only way to move a piece to Windows was to back up your entire library, which for a full library is hundreds of megabytes just to move one book. Your library, annotations and licence are not affected."
+  "versionCode": 13,
+  "versionName": "0.13",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.13/obbligato-0.13.apk",
+  "notes": "Fixes the freezing and long pauses when a tablet has a role set but no partner connected. Opening a piece, or going in and out of edit mode, could stall for seconds and then catch up all at once - and sometimes stopped responding altogether. The tablet was doing an enormous amount of unnecessary work trying to send updates to a partner that was not there.\n\nThat same problem turned out to be behind two others that looked separate. Hiding a page on one tablet now reaches the other properly, instead of leaving both showing the same page, and everything keeps up better while paired.\n\nAlso in this update: writing on the second tablet no longer disappears when you leave edit mode (you used to have to turn the page and come back to see it again); the page-turn strip width, the stylus-hover setting and the pen feedback settings now follow from the main tablet to the second one; the pen's haptic setting is remembered and put back if something resets it; and the undo and redo icons are redrawn.\n\nYour library, annotations and licence are not affected."
 }
