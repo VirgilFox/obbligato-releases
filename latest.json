@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.13/obbligato-0.13.apk",
-  "notes": "Fixes the freezing and long pauses when a tablet has a role set but no partner connected. Opening a piece, or going in and out of edit mode, could stall for seconds and then catch up all at once - and sometimes stopped responding altogether. The tablet was doing an enormous amount of unnecessary work trying to send updates to a partner that was not there.\n\nThat same problem turned out to be behind two others that looked separate. Hiding a page on one tablet now reaches the other properly, instead of leaving both showing the same page, and everything keeps up better while paired.\n\nAlso in this update: writing on the second tablet no longer disappears when you leave edit mode (you used to have to turn the page and come back to see it again); the page-turn strip width, the stylus-hover setting and the pen feedback settings now follow from the main tablet to the second one; the pen's haptic setting is remembered and put back if something resets it; and the undo and redo icons are redrawn.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 14,
+  "versionName": "0.14",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.14/obbligato-0.14.apk",
+  "notes": "Faster page turning when you move through several pages quickly.\n\nTurning a run of pages in a row could pause for a second and then jump to where you had got to. Two things were behind it. The tablet was drawing pages in the order they were asked for rather than putting the page you are actually looking at first, so the page on screen often waited behind pages you had already turned past. It could also draw the same page twice over.\n\nObbligato now also looks at how much free memory your tablet actually has and keeps as many pages ready as will comfortably fit, instead of using a fixed amount chosen for one particular tablet. On a tablet with memory to spare, more pages are ready before you reach them.\n\nYour library, annotations and licence are not affected."
 }
