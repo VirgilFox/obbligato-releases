@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.15/obbligato-0.15.apk",
-  "notes": "Tidier screens, and writing that keeps its thickness between tablets.\n\nThe \"Reader\" button now disappears on the library, organ and settings screens when nothing is open, instead of sitting there doing nothing.\n\nWriting done on one tablet used to arrive noticeably thinner on another, because a pen width was stored as a number of screen dots rather than as a size on the page — and the two tablets do not have the same number of dots across a page. Obbligato now records pen and highlighter width the same way it already records where a stroke sits: relative to the page. Writing made from now on keeps its thickness wherever you open it, and stays in proportion on a cropped page too.\n\nWriting you have already done is untouched and looks exactly as it did.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 16,
+  "versionName": "0.16",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.16/obbligato-0.16.apk",
+  "notes": "Closing a tab now works on the first tap.\n\nTapping the × on a tab often took two or three goes. The tab strip was treating the tap as the start of a sideways scroll and swallowing it. Selecting a tab was fixed for the same reason a while back; closing one never was, which is why it has been like this for so long. The × is also a little wider now, though the tabs are no taller.\n\nThis update also records more detail in its own logs when two paired tablets exchange annotations, so a reported problem with writing made on the second tablet can be tracked down. Nothing about how the app behaves changes.\n\nYour library, annotations and licence are not affected."
 }
