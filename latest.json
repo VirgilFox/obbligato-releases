@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.20/obbligato-0.20.apk",
-  "notes": "Pen haptic settings now match across a paired set.\n\n**The pen's buzz settings now travel from the main tablet to the second one.** If you have two tablets paired and set the strength or feel on the main one, the second tablet quietly kept its own and you had to match them by hand. It now follows along, the same way the page-turn zone and the stylus-hover setting already did.\n\nSet these on the MAIN tablet. The second tablet takes its settings from it, so a change made on the second tablet will be replaced the next time the main one sends its own.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 21,
+  "versionName": "0.21",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.21/obbligato-0.21.apk",
+  "notes": "Two fixes for paired tablets.\n\n**The second tablet no longer comes up blank when you pair.** Connecting two tablets while the first was on the Library screen could leave the second showing a plain white screen instead of the Obbligato logo, and it stayed that way until the app was closed and reopened. It now shows the logo straight away.\n\n**Handwriting no longer vanishes when you leave edit mode from the second tablet.** Leaving edit mode from the second tablet could leave your annotations invisible until you turned a page or toggled edit mode again. Doing it from the main tablet was already fine; now both are.\n\nNothing was ever lost in either case — the handwriting was always saved, it just wasn't being redrawn. Your library, annotations and licence are not affected."
 }
