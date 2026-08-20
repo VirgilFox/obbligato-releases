@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.21",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.21/obbligato-0.21.apk",
-  "notes": "Two fixes for paired tablets.\n\n**The second tablet no longer comes up blank when you pair.** Connecting two tablets while the first was on the Library screen could leave the second showing a plain white screen instead of the Obbligato logo, and it stayed that way until the app was closed and reopened. It now shows the logo straight away.\n\n**Handwriting no longer vanishes when you leave edit mode from the second tablet.** Leaving edit mode from the second tablet could leave your annotations invisible until you turned a page or toggled edit mode again. Doing it from the main tablet was already fine; now both are.\n\nNothing was ever lost in either case — the handwriting was always saved, it just wasn't being redrawn. Your library, annotations and licence are not affected."
+  "versionCode": 22,
+  "versionName": "0.22",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.22/obbligato-0.22.apk",
+  "notes": "A page turn from the second tablet no longer occasionally goes missing.\n\n**Turning a page on the second tablet sometimes didn't reach the first one.** The two would sit a page apart until you turned a few pages on the main tablet, which put them right again. Bluetooth doesn't confirm that a message arrived, so an occasional one was simply lost with nothing to notice it had gone.\n\nEach page turn is now sent again twice, a fraction of a second apart. A repeat that isn't needed is ignored, and each one reports where the tablet is at that moment rather than where it was — so a late arrival can never pull you back to a page you have already turned past.\n\nYour library, annotations and licence are not affected."
 }
