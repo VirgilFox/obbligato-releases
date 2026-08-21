@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.29/obbligato-0.29.apk",
-  "notes": "Taps at the bottom of the screen, and ghosting on the second tablet.\n\n**Taps on the lower part of a tab, or on the page slider, were being taken by the tablet itself.** That bar sits right along the bottom edge of the screen, which is where Android and Onyx both listen for their own edge gestures — so a touch starting there never reached Obbligato at all. The app now claims that strip back, so taps land where you put them. This is the same fix already used for the page-turn zones down the left and right sides.\n\n**Tabs are bigger.** Their touch area was smaller than the minimum recommended for a fingertip, which made a near-miss into a miss.\n\n**The second tablet's logo screen no longer ghosts.** Going back to the library left a dense page of music faintly burnt into an almost blank screen. It now clears properly once the logo is up.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 30,
+  "versionName": "0.30",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.30/obbligato-0.30.apk",
+  "notes": "Annotations you erased staying erased, and transfers that used to get stuck.\n\n**Erased annotations could come back on the second tablet.** Old markings you had rubbed out a while ago could reappear on the paired tablet, then vanish again when you closed and reopened the piece. Nothing was ever wrong with your saved annotations — the second tablet was drawing an out-of-date snapshot over the page. It now keeps that snapshot in step.\n\n**Transfers that got stuck and never finished.** When the first tablet was still building a large piece to send, the second tablet stopped setting itself any deadline at all. If the go-ahead message went missing along the way — and these messages are sent without acknowledgement — the receiving tablet would wait forever. It now waits a generous but finite amount of time and gets on with it.\n\nYour library, annotations and licence are not affected."
 }
