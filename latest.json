@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "0.27",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.27/obbligato-0.27.apk",
-  "notes": "Tidying up the Go to hymn screen.\n\n**The Clear key no longer runs onto two lines.** It was being drawn in capitals, which made it too wide for the key, so the last letter wrapped underneath and knocked the bottom row of the keypad out of line.\n\n**Go, Close and More now match the buttons in every other window.** They were being given the boxed look used for the tools down the side of the page, which belongs on the page rather than in a dialogue.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 28,
+  "versionName": "0.28",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.28/obbligato-0.28.apk",
+  "notes": "Taps that were being ignored, and tags you can actually browse.\n\n**Taps on the lower part of a tab, or the page slider, were being swallowed.** The pen area of the screen is told to keep clear of the toolbar so your taps reach the buttons — but that boundary was worked out once and never revisited, so when the tab strip appeared and made the toolbar taller, the strip along the bottom stayed off limits. Anything you tapped down there went nowhere. It is now kept up to date whenever the toolbar changes size.\n\n**The whole tab is now tappable.** Only the title text itself responded before, so a piece with a short name gave you a very small target, and the edges of the tab did nothing at all.\n\n**Tapping \"Tags\" now shows a tidy list of tag names.** Groups you had opened previously stayed open, so there was no quick way back to a plain index. Tapping Tags now collapses everything — and tapping it again while already in Tags is a quick way to close them all.\n\n**In Tags, the search box now finds tag names too.** Type \"Advent\" and you get the Advent group with its pieces, rather than only pieces with \"Advent\" in the title.\n\nYour library, annotations and licence are not affected."
 }
