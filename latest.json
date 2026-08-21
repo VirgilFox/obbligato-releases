@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.24/obbligato-0.24.apk",
-  "notes": "Your handwriting and the page now appear together.\n\n**Opening a piece used to show its handwriting a moment before the music itself.** For a fraction of a second the incoming page's markings were drawn over the page you were leaving, until the new page finished loading underneath them. The markings are now held back until the page they belong to is ready, so the two arrive together.\n\nNothing was ever misplaced — the markings were always on the right page, they were just shown a beat too early.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 25,
+  "versionName": "0.25",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.25/obbligato-0.25.apk",
+  "notes": "A new Recolour tool.\n\n**Drag over your markings and they change to whatever colour you have selected.** It works just like the eraser, but instead of removing what you pass over it recolours it: pen and highlighter strokes, pedal markings, bowings, note stamps and IPA symbols alike.\n\nYou'll find it as a magic wand just below the colour swatches, so the colour you pick is the colour it applies.\n\nA few things worth knowing:\n\n- It changes a whole stroke, the same way the eraser removes a whole stroke — touch any part of a line and all of it changes.\n- A highlighter stays a highlighter, at its own thickness. Only the colour changes.\n- One tap of Undo puts a whole sweep back, however many markings it caught.\n- Passing over something that is already the right colour does nothing at all.\n- Like the eraser, it only affects the ink layer you are currently viewing.\n\nYour library, annotations and licence are not affected."
 }
