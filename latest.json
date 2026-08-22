@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "0.36",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.36/obbligato-0.36.apk",
-  "notes": "Pen haptic strength now matches between tablets.\n\n**The haptic setting could show the wrong number.** Changing the pen's vibration strength wrote the new value correctly, but the app then asked the pen what it was set to before the pen had finished changing it — so the settings screen could show the previous value. Paired tablets appeared to disagree when they did not.\n\nThe app now gives the pen a moment before believing the answer, and asks again if it still disagrees.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 38,
+  "versionName": "0.38",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.38/obbligato-0.38.apk",
+  "notes": "Ink layers stay with the piece they belong to.\n\n**An ink layer created for one piece could appear on others.** While two tablets were paired, the layer one tablet was using could be applied to whatever piece the other tablet happened to have open — and remembered there. That meant markings drawn afterwards were filed under a layer belonging to a different piece, and appeared to have vanished. Layers now travel with the piece they belong to and are ignored if they arrive for anything else.\n\n**Layers a piece never uses are tidied away.** A piece's layer list only ever grew. It is now cleaned up when the piece opens, keeping any layer that actually has markings on it, the Default layer, and whichever layer that piece was last set to. Markings are never touched.\n\n**Deleting a layer now deletes what was drawn on it.** Previously it removed the layer from the list but left the markings, so the layer reappeared the next time the piece was opened. The confirmation now tells you exactly how many marks will be deleted, and only that piece is affected.\n\nIf markings seem to be missing from a piece, check its ink layer — they are most likely on another one.\n\nYour library, annotations and licence are not affected."
 }
