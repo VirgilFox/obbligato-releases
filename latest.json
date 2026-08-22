@@ -1,6 +1,14 @@
 {
-  "versionCode": 30,
-  "versionName": "0.30",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.30/obbligato-0.30.apk",
-  "notes": "Annotations you erased staying erased, and transfers that used to get stuck.\n\n**Erased annotations could come back on the second tablet.** Old markings you had rubbed out a while ago could reappear on the paired tablet, then vanish again when you closed and reopened the piece. Nothing was ever wrong with your saved annotations — the second tablet was drawing an out-of-date snapshot over the page. It now keeps that snapshot in step.\n\n**Transfers that got stuck and never finished.** When the first tablet was still building a large piece to send, the second tablet stopped setting itself any deadline at all. If the go-ahead message went missing along the way — and these messages are sent without acknowledgement — the receiving tablet would wait forever. It now waits a generous but finite amount of time and gets on with it.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 31,
+  "versionName": "0.31",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.31/obbligato-0.31.apk",
+  "notes": "Groundwork for tracking down transfers that fail away from home.
+
+**This release changes nothing you can see.** It records what the Wi-Fi radio was doing around each transfer between tablets, into a small file on the tablet itself.
+
+Transfers have been reliable on some networks and unreliable on others. The likely reason is that a tablet has only one Wi-Fi radio, shared between the network it is joined to and the direct tablet-to-tablet connection — so the network you are on can constrain how the two tablets talk. This release gathers the evidence needed to confirm or rule that out.
+
+It is written to a file rather than the system log because the system log is overwritten during normal use, which would lose a morning's problem by the afternoon.
+
+Your library, annotations and licence are not affected."
 }
