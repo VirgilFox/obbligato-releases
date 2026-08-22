@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "0.32",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.32/obbligato-0.32.apk",
-  "notes": "Thinner tabs, all the same width, and a long press that no longer closes them.\n\n**Tabs are thinner again**, returning a little page height — most noticeably when you toggle into edit mode. They were made taller in 0.29 at the same time as the fix for taps being stolen by the screen edge, and it was never clear which of the two actually helped. This puts the size back so the edge fix can stand on its own. If taps start being missed again, say so and the size goes back.\n\n**Every tab is now the same width**, whatever the piece is called. Tabs stay where you expect them, and the close button no longer shifts position depending on the length of the title.\n\n**Long-pressing a tab no longer closes it by accident.** Pressing and holding on the close button used to produce no menu at all, and then close the tab when you let go. It now opens the same menu as the rest of the tab.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 33,
+  "versionName": "0.33",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.33/obbligato-0.33.apk",
+  "notes": "Tab height, a bigger Library button, and the sidebar no longer overlapping the battery.\n\n**Tabs are back to the taller size** from 0.29. The thinner tabs in 0.32 gave back a little page height, but reliable taps matter more.\n\n**The Library button is larger** — it now fills the height of the tab row. This costs no page space; that room was already there and simply wasn't being used.\n\n**The tool sidebar no longer collides with the battery indicator.** The pen button at the top of the sidebar was overlapping the battery chip in the corner. The sidebar now starts below it.\n\nYour library, annotations and licence are not affected."
 }
