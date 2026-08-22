@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "0.34",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.34/obbligato-0.34.apk",
-  "notes": "The page number moves into the tool sidebar, and the page gets slightly larger.\n\n**The page position now lives at the bottom of the tool sidebar** instead of in its own strip across the bottom of the screen. It was previously showing the same number the page slider already displays.\n\n**Your music is slightly larger as a result.** Removing that strip gives its height back to the page — noticeable on pieces you have cropped, where the page size is limited by height rather than width.\n\nIn a playlist, the position in the setlist appears on a second line beneath the page number. The piece title is no longer repeated there, since it is already on the tab.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 35,
+  "versionName": "0.35",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.35/obbligato-0.35.apk",
+  "notes": "The page slider gets its full width back.\n\n**The page number beside the page-jump slider is gone.** With the position now showing in the tool sidebar, that number was a third copy of the same reading, and the slider handle has more room without it.\n\n**Dragging still previews the page you are heading for** — the number now appears in the sidebar while you scrub, alongside the thumbnail. Releasing the handle turns the page, exactly as before.\n\nYour library, annotations and licence are not affected."
 }
