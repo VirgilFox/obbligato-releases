@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.33",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.33/obbligato-0.33.apk",
-  "notes": "Tab height, a bigger Library button, and the sidebar no longer overlapping the battery.\n\n**Tabs are back to the taller size** from 0.29. The thinner tabs in 0.32 gave back a little page height, but reliable taps matter more.\n\n**The Library button is larger** — it now fills the height of the tab row. This costs no page space; that room was already there and simply wasn't being used.\n\n**The tool sidebar no longer collides with the battery indicator.** The pen button at the top of the sidebar was overlapping the battery chip in the corner. The sidebar now starts below it.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 34,
+  "versionName": "0.34",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.34/obbligato-0.34.apk",
+  "notes": "The page number moves into the tool sidebar, and the page gets slightly larger.\n\n**The page position now lives at the bottom of the tool sidebar** instead of in its own strip across the bottom of the screen. It was previously showing the same number the page slider already displays.\n\n**Your music is slightly larger as a result.** Removing that strip gives its height back to the page — noticeable on pieces you have cropped, where the page size is limited by height rather than width.\n\nIn a playlist, the position in the setlist appears on a second line beneath the page number. The piece title is no longer repeated there, since it is already on the tab.\n\nYour library, annotations and licence are not affected."
 }
