@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "0.35",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.35/obbligato-0.35.apk",
-  "notes": "The page slider gets its full width back.\n\n**The page number beside the page-jump slider is gone.** With the position now showing in the tool sidebar, that number was a third copy of the same reading, and the slider handle has more room without it.\n\n**Dragging still previews the page you are heading for** — the number now appears in the sidebar while you scrub, alongside the thumbnail. Releasing the handle turns the page, exactly as before.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 36,
+  "versionName": "0.36",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.36/obbligato-0.36.apk",
+  "notes": "Pen haptic strength now matches between tablets.\n\n**The haptic setting could show the wrong number.** Changing the pen's vibration strength wrote the new value correctly, but the app then asked the pen what it was set to before the pen had finished changing it — so the settings screen could show the previous value. Paired tablets appeared to disagree when they did not.\n\nThe app now gives the pen a moment before believing the answer, and asks again if it still disagrees.\n\nYour library, annotations and licence are not affected."
 }
