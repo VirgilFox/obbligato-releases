@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "0.42",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.42/obbligato-0.42.apk",
-  "notes": "Importing is simpler, and several screens now match the rest of the app.\n\n**Import goes straight to the file picker.** The choice between browsing inside Obbligato and browsing elsewhere is gone — the system picker is now used every time. It is the only one that can reach Drive, Dropbox and OneDrive, since files stored there do not exist on the tablet itself.\n\n**Obbligato now appears in the Share menu of other apps.** If you are already in Drive or Dropbox looking at a PDF, you can send it straight to Obbligato without opening the picker at all. Several at once works too.\n\n**Buttons in the ink layers window, the folder browser and the tag windows now match the rest of the app.** These were built in code and had been missed by earlier restyling.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 45,
+  "versionName": "0.45",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.45/obbligato-0.45.apk",
+  "notes": "The second tablet can be updated from the first.\n\n**When you install an update on the main tablet, it now offers the same update to the paired tablet.** The second tablet no longer needs to be connected to a network at all.\n\nThat matters for transfers: the two tablets talk to each other directly, and the second tablet has to follow whichever channel the first one chooses. If it is joined to a network that pins it elsewhere — as a workplace network often does — the direct connection between them can fail. App updates were the only remaining reason for the second tablet to join a network.\n\nBoth tablets must be on 0.44 or later for this to work. Android will still ask you to confirm the install on the second tablet; that cannot be skipped, and the second tablet will not accept an update while a piece is open.\n\nYour library, annotations and licence are not affected."
 }
