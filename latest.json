@@ -2,5 +2,17 @@
   "versionCode": 57,
   "versionName": "0.57",
   "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.57/obbligato-0.57.apk",
-  "notes": "Selecting pieces, a tidier library header, and a way to clear ghosting.\n\n**Long-press a piece to start selecting.** The piece you pressed is selected straight away, and \"Select pieces\" has been removed from the ⋮ menu. In grid view, the per-piece menu has moved to a ⋯ button on the card.\n\n**The library header is one row.** Sort now sits alongside the view and playlist buttons, the \"Library\" title is gone, and the search box has the row below to itself. When you are selecting pieces, the selection buttons share that row and the search box shrinks — so you can still search while a selection is in progress.\n\n**Two-finger double tap in the reader clears ghosting.** Two fingers down and up, twice. One tap on its own does nothing, so a hand resting on the screen will not trigger it.\n\n**The second tablet can be updated from the first.** When you install an update on the main tablet, it offers the same update to the paired tablet, so the second tablet never needs to join a network. Both must be on 0.44 or later.\n\n**Markings that seemed to disappear.** An ink layer created for one piece could attach itself to another while two tablets were paired. Layers now stay with the piece they belong to — if markings ever seem missing, check the piece's ink layer first.\n\n**Pen haptic strength now matches between tablets**, importing goes straight to the file picker, and there is a recolour tool for changing the colour of anything you draw over.\n\nYour library, annotations and licence are not affected."
+  "notes": "Pages and their markings now always match.
+
+**A page could appear with the wrong markings on it, or on the wrong side of the spread.** This affected pieces where the first page is hidden and the music starts on the right-hand tablet, and showed up when reopening the app with such a piece already open — one tablet would show a page while its markings appeared on the other. Out-of-date pages are now discarded instead of being displayed.
+
+**The second tablet can be updated from the first**, so it never needs to join a network. Install an update on the main tablet and it offers the same one to its partner.
+
+**Ink layers stay with the piece they belong to.** A layer created for one piece could attach itself to another while paired. If markings ever seem missing, check the piece's ink layer.
+
+**Long-press a piece in the library to start selecting.** The header is one row, search stays available while selecting, and Share and Delete are icons.
+
+**A two-finger double tap in the reader clears ghosting**, and cropping with a finger is easier.
+
+Your library, annotations and licence are not affected."
 }
