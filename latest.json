@@ -1,6 +1,18 @@
 {
-  "versionCode": 82,
-  "versionName": "0.82",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.82/obbligato-0.82.apk",
-  "notes": "Pages and their markings now always match.\n\n**A page could appear with the wrong markings on it, or on the wrong side of the spread.** This affected pieces where the first page is hidden and the music starts on the right-hand tablet, and showed up when reopening the app with such a piece already open — one tablet would show a page while its markings appeared on the other. Out-of-date pages are now discarded instead of being displayed.\n\n**The second tablet can be updated from the first**, so it never needs to join a network. Install an update on the main tablet and it offers the same one to its partner.\n\n**Ink layers stay with the piece they belong to.** A layer created for one piece could attach itself to another while paired. If markings ever seem missing, check the piece's ink layer.\n\n**Long-press a piece in the library to start selecting.** The header is one row, search stays available while selecting, and Share and Delete are icons.\n\n**A two-finger double tap in the reader clears ghosting**, and cropping with a finger is easier.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 84,
+  "versionName": "0.84",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v0.84/obbligato-0.84.apk",
+  "notes": "A back button you can place on the page.
+
+**Long-press the Link tool and choose \"Back button\"**, then tap where you want it. There is nothing to set up — no target to pick and no dialog afterwards.
+
+Tapping it takes you back to whichever other piece you had open before this one, at the page you were on there. Unlike a two-way link it is not tied to one destination: it always returns to wherever you actually came from. It only remembers moves between pieces, so turning pages or following a link within the same piece will not change where it takes you.
+
+**The reading light now stays in step between tablets**, in both directions and while the library is open. Changing it on the main tablet had no effect on the second one before.
+
+**Pages and their markings always match.** A page could appear with the wrong markings, or on the wrong side of the spread, on pieces where the first page is hidden and the music starts on the right.
+
+**The second tablet can be updated from the first**, so it never needs to join a network.
+
+Your library, annotations and licence are not affected."
 }
