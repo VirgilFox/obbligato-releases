@@ -1,18 +1,6 @@
 {
-  "versionCode": 113,
-  "versionName": "1.13",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.13/obbligato-1.13.apk",
-  "notes": "A back button you can place on the page.
-
-**Long-press the Link tool and choose \"Back button\"**, then tap where you want it. There is nothing to set up — no target to pick and no dialog afterwards.
-
-Tapping it takes you back to whichever other piece you had open before this one, at the page you were on there. Unlike a two-way link it is not tied to one destination: it always returns to wherever you actually came from. It only remembers moves between pieces, so turning pages or following a link within the same piece will not change where it takes you.
-
-**The reading light now stays in step between tablets**, in both directions and while the library is open. Changing it on the main tablet had no effect on the second one before.
-
-**Pages and their markings always match.** A page could appear with the wrong markings, or on the wrong side of the spread, on pieces where the first page is hidden and the music starts on the right.
-
-**The second tablet can be updated from the first**, so it never needs to join a network.
-
-Your library, annotations and licence are not affected."
+  "versionCode": 139,
+  "versionName": "1.39",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.39/obbligato-1.39.apk",
+  "notes": "Everything since 1.24, including a fix for the screen jolting as you work.\n\n**Tapping a mark no longer moves it.** Tapping a piston, a link or a pedal stamp to edit it would nudge it slightly out of place, so it then had to be dragged back. The app was treating almost any tap as a very short drag. It now waits to see whether you are really dragging before moving anything, on every mark tool.\n\n**The screen no longer jolts as you tap.** The whole page would jump down and back on roughly every other tap. This was previously put down to the display's refresh mode; it was not, and it is now fixed properly.\n\n**Every kind of link is on one menu.** Place a link and you are asked what it should do: go to a page in this piece, go to a page in another piece, make a two-way link, or make a back button. The long-press on the Link tool is gone, so nothing is hidden. You can also change what an existing link does instead of deleting it and starting again.\n\nThis also fixes the second tablet getting stuck placing back buttons until the app was restarted.\n\n**Favourite pieces are pinned to the top when choosing a link target.** Tap the star next to any piece. Favourites sync between tablets.\n\n**Scrolling the piece list no longer picks a piece by accident** when you let go with your finger.\n\n**Links always take you where they say.** A link into a piece whose first page is hidden would quietly ignore the page it named and take you back to wherever you last were in that piece instead.\n\n**Writing in performance mode is now two settings, and better named.** In Sidebar Settings: \"Write with the pen without leaving performance mode\", and under it \"…and enter edit mode once you stop writing\". Turn the second one off and the pen still writes, but you stay in performance mode afterwards, so edge taps keep turning pages. Both on is what the old single setting did, and that is what you already have.\n\n**Filter and sort your library by composer, difficulty and the rest**, alongside the existing tags.\n\n**Collections list the pieces inside them**, and you can jump straight into one from the page you are on.\n\n**Each piece in a setlist carries its own settings.**\n\n**Edit any of a piece's details on the tablet**, rather than only on the computer.\n\n**Hymn indexes are shared with the computer** along with everything else.\n\nYour library, annotations and licence are not affected."
 }
