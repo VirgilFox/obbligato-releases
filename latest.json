@@ -1,6 +1,6 @@
 {
-  "versionCode": 181,
-  "versionName": "1.81",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.81/obbligato-1.81.apk",
-  "notes": "A small follow-up to 1.79.\n\n**Piston numbers now fit inside the piston.** Numbers of every length sit clear of the outline instead of touching it, and in a triangle the number sits a little lower, in its middle. Two-digit numbers come out somewhat smaller than before; three-digit numbers are smaller again.\n\n**Updates are now installed by Obbligato itself** rather than handed to Android's installer. This is to stop an update from resetting an Android setting that the two-tablet ghosting fix relies on. You are still asked to confirm each update, exactly as before.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 182,
+  "versionName": "1.82",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.82/obbligato-1.82.apk",
+  "notes": "A small follow-up for two-tablet setups.\n\n**Panel wake can now switch itself back on.** Panel wake is the setting that stops a page ghosting when it is turned from the other tablet. On some Boox tablets, closing Obbligato from the multitasking screen switches it off. A tablet can now be given permission to change that setting, and Obbligato then turns panel wake back on by itself whenever it opens. That permission can only be given from a computer, so on every other tablet nothing changes: while two tablets are paired and panel wake is off, you are still asked to turn it on.\n\nYour library, annotations and licence are not affected."
 }
