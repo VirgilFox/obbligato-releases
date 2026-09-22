@@ -1,6 +1,6 @@
 {
-  "versionCode": 183,
-  "versionName": "1.83",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.83/obbligato-1.83.apk",
-  "notes": "A fix for two-tablet setups.\n\n**Links placed on the second tablet no longer vanish.** With panel wake on, a link placed on the second tablet could disappear a moment later, along with its menu, especially just after switching pieces. Panel wake was tapping the screen more often than it needed to, and one of those taps closed the link's menu. It now taps only when a new page actually arrives, which is the only time it is needed.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 184,
+  "versionName": "1.84",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.84/obbligato-1.84.apk",
+  "notes": "One new setting and one fix.\n\n**Go to standby after.** A new reader setting that sends the tablet into standby after a chosen number of minutes without being used, so a tablet left on no longer runs its battery flat. Choose 15 to 120 minutes, or Never; press the power button to wake it. With two tablets, the second one follows the setting on the first. On most tablets this needs a permission Obbligato cannot ask for yet, and the setting says so when that is the case.\n\n**The highlighter no longer leaves a trail on other tools.** After using the highlighter, placing a stamp or link or using the eraser could draw a brief highlighter stroke that then disappeared. It no longer does.\n\nYour library, annotations and licence are not affected."
 }
