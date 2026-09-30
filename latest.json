@@ -1,6 +1,6 @@
 {
-  "versionCode": 186,
-  "versionName": "1.86",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.86/obbligato-1.86.apk",
-  "notes": "One small change to the troubleshooting recorder.\n\n**The recorder can now see the tablet's own log.** Last version's recorder could only record what Obbligato itself was doing. With this update it can also capture the screen's sleep and wake messages and the Bluetooth link, which is what is needed to chase a frozen panel or a page turn that does not reach the other tablet. The switch is still off unless you turn it on, and Android may ask you to allow one-time log access each time the recorder starts.\n\nNothing else changes. Your library, annotations and licence are not affected."
+  "versionCode": 187,
+  "versionName": "1.87",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.87/obbligato-1.87.apk",
+  "notes": "Playlists now open out in place.\n\n**Open a playlist from the Playlists window.** Each playlist has a small arrow. Tap it and the pieces in that playlist appear underneath, where you can tick a piece off for today, set where it starts, drag it to a new place with the handle, remove it, or add more pieces. Only one playlist is open at a time.\n\n**The \"Edit pieces\" choice is gone from the playlist menu**, because the arrow does the same job without leaving the window. Open in tabs, Send to another tablet, Rename and Delete are still there.\n\nYour library, annotations and licence are not affected."
 }
