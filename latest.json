@@ -1,6 +1,6 @@
 {
-  "versionCode": 185,
-  "versionName": "1.85",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.85/obbligato-1.85.apk",
-  "notes": "One fix for two tablets, and a troubleshooting recorder.\n\n**Hiding or reordering pages now redraws the other tablet.** With two tablets, hiding the last page of a piece could leave the second tablet showing the page it had before, instead of redrawing. It now wakes and redraws, the same way it does for a page turn.\n\n**Record what the tablet is doing.** A new switch in the reader settings, off unless you turn it on, which keeps a rolling record of what the app and the screen are doing. It is only for chasing a fault that happens away from a computer, such as a page turn that does not reach the other tablet. It keeps a few days at most and drops the oldest as it goes. Leave it off unless asked.\n\nYour library, annotations and licence are not affected."
+  "versionCode": 186,
+  "versionName": "1.86",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v1.86/obbligato-1.86.apk",
+  "notes": "One small change to the troubleshooting recorder.\n\n**The recorder can now see the tablet's own log.** Last version's recorder could only record what Obbligato itself was doing. With this update it can also capture the screen's sleep and wake messages and the Bluetooth link, which is what is needed to chase a frozen panel or a page turn that does not reach the other tablet. The switch is still off unless you turn it on, and Android may ask you to allow one-time log access each time the recorder starts.\n\nNothing else changes. Your library, annotations and licence are not affected."
 }
