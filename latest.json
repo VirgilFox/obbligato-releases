@@ -1,6 +1,6 @@
 {
-  "versionCode": 206,
-  "versionName": "2.06",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.06/obbligato-2.06.apk",
-  "notes": "Same as 2.05, with a note added to the troubleshooting recorder.\n\nTwo tablets were still handing out the same piston number after 2.05, and there are three possible reasons that look identical from the outside. Rather than change the behaviour again on a guess, this build writes down everything it used to pick a number each time you place a piston — which ink layer you are on, which memory level, how many generals the organ is recorded as having, and which numbers it believes are already taken.\n\nPlacing one piston on each tablet is enough to say which of the three it is.\n\nNothing else is different from 2.05, and the note costs nothing: one line, only when you place a piston."
+  "versionCode": 207,
+  "versionName": "2.07",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.07/obbligato-2.07.apk",
+  "notes": "Deleting pistons no longer leaves a tablet counting from a number that is gone.\n\n**Place pistons back and forth on both tablets, delete them, and the next one starts from what is actually on the page** — not from the highest number that tablet happens to remember placing.\n\nEach tablet keeps a private note of the last piston you placed on it, so the next one carries on from there. That note is now only believed while the piston it names still exists. Delete that piston — on either tablet — and the note stops counting, and the numbering falls back to one past the highest still on the page. Delete all of them and you start again at 1.\n\nThis replaces the separate delete handling added in 2.04, which could only see pistons deleted on its own tablet. Everything from the last few updates still holds: place 12 and get 13, delete 13 and get 13 back, renumber 320 down to 250 and get 251, and a number the other tablet has taken is skipped."
 }
