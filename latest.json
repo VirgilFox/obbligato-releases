@@ -1,6 +1,6 @@
 {
-  "versionCode": 210,
-  "versionName": "2.10",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.10/obbligato-2.10.apk",
-  "notes": "Typing a piston number that is already used in the same piece now warns you.\n\n**Set a piston to a number another piston in this piece already has, and you get a warning** saying which page it is on, with Continue or Cancel. Until now that never warned at all — the check only ever looked at other pieces, and it skipped pistons with no memory level entirely, so on an organ without memory levels no number ever warned.\n\nIt only warns when you type the number yourself. Placing pistons the normal way stays quiet: a number already used is skipped automatically, which is how a run carries on across both tablets without a prompt every time.\n\nOther pieces are unchanged. A piston with no memory level still does not warn about the same number in another piece, because those are the temporary pieces you re-register each week."
+  "versionCode": 211,
+  "versionName": "2.11",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.11/obbligato-2.11.apk",
+  "notes": "The piston-number warning can be switched off.\n\n**Settings → Reader → \"Warn when a piston number you type is already used.\"** It is on by default. Switch it off if you reuse piston numbers on purpose and the prompt just gets in the way.\n\nIt covers both warnings: a number already used in this piece, and a number already used on the same organ in another piece. Placing pistons the normal way was never affected — that stays quiet either way.\n\nThe setting belongs to each tablet separately, since the prompt only ever appears on the one you are editing on."
 }
