@@ -1,6 +1,6 @@
 {
-  "versionCode": 209,
-  "versionName": "2.09",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.09/obbligato-2.09.apk",
-  "notes": "A full bank of pistons wraps back to 1 when the piece is not using memory levels.\n\n**On a piece with no memory level, the piston after the last general goes back to 1 — still with no memory level.** It used to roll over to \"level 2\", inventing a memory level in a piece you are deliberately keeping off them. That is for temporary pieces that you re-register each time rather than commit to a level, and wrapping round is what you do at the console.\n\nPieces that do use memory levels are unchanged: after the last general on a level, the next piston goes to number 1 on the next level, as before.\n\nAfter wrapping it carries on in order — 1, 2, 3 — rather than handing out 1 again and again, even though those numbers are already on the page.\n\nThe same fix applies to an organ set up with no memory levels at all, which used to stop at its last number and repeat it.\n\nAlso in 2.08 if you missed it: the tool you pick now survives a dropped message."
+  "versionCode": 210,
+  "versionName": "2.10",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.10/obbligato-2.10.apk",
+  "notes": "Typing a piston number that is already used in the same piece now warns you.\n\n**Set a piston to a number another piston in this piece already has, and you get a warning** saying which page it is on, with Continue or Cancel. Until now that never warned at all — the check only ever looked at other pieces, and it skipped pistons with no memory level entirely, so on an organ without memory levels no number ever warned.\n\nIt only warns when you type the number yourself. Placing pistons the normal way stays quiet: a number already used is skipped automatically, which is how a run carries on across both tablets without a prompt every time.\n\nOther pieces are unchanged. A piston with no memory level still does not warn about the same number in another piece, because those are the temporary pieces you re-register each week."
 }
