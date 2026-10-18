@@ -1,6 +1,6 @@
 {
-  "versionCode": 211,
-  "versionName": "2.11",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.11/obbligato-2.11.apk",
-  "notes": "The piston-number warning can be switched off.\n\n**Settings → Reader → \"Warn when a piston number you type is already used.\"** It is on by default. Switch it off if you reuse piston numbers on purpose and the prompt just gets in the way.\n\nIt covers both warnings: a number already used in this piece, and a number already used on the same organ in another piece. Placing pistons the normal way was never affected — that stays quiet either way.\n\nThe setting belongs to each tablet separately, since the prompt only ever appears on the one you are editing on."
+  "versionCode": 217,
+  "versionName": "2.17",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.17/obbligato-2.17.apk",
+  "notes": "Three fixes, mostly for two tablets used together.\n\n**New pieces no longer get stuck on their way to the second tablet.** Every day or two the tablet quietly changes the name it uses for its direct Wi-Fi link, and if that happened just as a piece was being sent, the two tablets could no longer find each other — until both apps were restarted. They now tell each other about the new name straight away.\n\n**Closing a piece on the master now reliably closes it on the second tablet.** If the Bluetooth link dropped for a moment as you closed something, the second tablet never heard, and the piece stayed open there. The master now also sends its whole list of open pieces, so a missed close fixes itself.\n\n**Writing near the right and bottom edges shows up as you write.** On the second tablet — and on any tablet writing with the sidebar hidden — ink in a strip along the right and bottom edges was saved but only appeared after leaving edit mode. It now appears live, right up to the edge."
 }
