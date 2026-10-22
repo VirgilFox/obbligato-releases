@@ -1,6 +1,6 @@
 {
-  "versionCode": 228,
-  "versionName": "2.28",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.28/obbligato-2.28.apk",
-  "notes": "**The second tablet now stays the second tablet when reopened.** If you closed the app on the second tablet with no piece open and opened it again, it came back on the Library screen, looking as if it had forgotten Dual Mode. It now reopens as the second tablet, showing the Obbligato logo while it waits for the main tablet, and pairs as usual.\n\nAlso includes 2.26 (choosing a divisional piston's division from a list). If you use two tablets together, update both."
+  "versionCode": 229,
+  "versionName": "2.29",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.29/obbligato-2.29.apk",
+  "notes": "**Piston numbers carry on from the last one you placed — on either tablet.** When you placed a piston on the second tablet, or right after deleting one, the next number could jump to one past the highest number in the piece (for example into the 800s on a 999-general organ) instead of following on from the piston you had just set. It now continues from the most recently placed or changed general, whichever tablet it was on.\n\nIf you use two tablets together, update both."
 }
