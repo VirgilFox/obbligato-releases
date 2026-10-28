@@ -1,6 +1,6 @@
 {
-  "versionCode": 244,
-  "versionName": "2.44",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.44/obbligato-2.44.apk",
-  "notes": "**The Library refresh is back.** 2.43's quicker refresh turned out to do nothing on this tablet. Coming back to the Library from a piece, or closing a dialog there, now gives one single blink to clear the screen.\n\nIf you use two tablets together, update both."
+  "versionCode": 245,
+  "versionName": "2.45",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.45/obbligato-2.45.apk",
+  "notes": "**Search finds every word.** Each word you type is now matched on its own, in any order, across the title and composer, so \"Bach to\" finds Bach's Toccatas.\n\n**Sort by Imported.** A new \"Imported\" button in the Library's sort row lists the newest imports first. \"Recent\" still means recently opened.\n\n**Clearing the search puts the keyboard away.**\n\nIf you use two tablets together, update both."
 }
