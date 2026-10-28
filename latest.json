@@ -1,6 +1,6 @@
 {
-  "versionCode": 243,
-  "versionName": "2.43",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.43/obbligato-2.43.apk",
-  "notes": "**A gentler refresh on the Library.** Coming back to the Library from a piece, or closing a dialog there, now gives one quick blink instead of two big ones.\n\nIf you use two tablets together, update both."
+  "versionCode": 244,
+  "versionName": "2.44",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.44/obbligato-2.44.apk",
+  "notes": "**The Library refresh is back.** 2.43's quicker refresh turned out to do nothing on this tablet. Coming back to the Library from a piece, or closing a dialog there, now gives one single blink to clear the screen.\n\nIf you use two tablets together, update both."
 }
