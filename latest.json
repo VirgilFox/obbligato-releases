@@ -1,6 +1,6 @@
 {
-  "versionCode": 241,
-  "versionName": "2.41",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.41/obbligato-2.41.apk",
-  "notes": "**Less ghosting on the Library screen.** When a dialog closes over the Library (an update, Library Sync, backup and so on), or you come back to it from another screen, it now gives the screen a quick refresh so the dialog's outline doesn't linger.\n\n**A cleaner logo on the second tablet.** When the master goes to its Library, the second tablet now clears its screen a second time under the logo, so the last page of music no longer shows faintly behind it.\n\nIf you use two tablets together, update both."
+  "versionCode": 242,
+  "versionName": "2.42",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.42/obbligato-2.42.apk",
+  "notes": "**One refresh on the second tablet, not two.** When the master goes back to its Library, the second tablet refreshes its screen once under the logo again, instead of twice.\n\nIf you use two tablets together, update both."
 }
