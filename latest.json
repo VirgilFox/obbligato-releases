@@ -1,6 +1,6 @@
 {
-  "versionCode": 240,
-  "versionName": "2.40",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.40/obbligato-2.40.apk",
-  "notes": "**The page-turn strips at full size.** In Settings > Page turning, a bar along the bottom of the screen now shows the turn strips edge to edge at their real width, so you can see exactly where a tap will turn the page. The – and + buttons change it.\n\n**Clearer headings in Settings.** The headings within each section are larger and bolder, so each group of settings is easy to find.\n\nIf you use two tablets together, update both."
+  "versionCode": 241,
+  "versionName": "2.41",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.41/obbligato-2.41.apk",
+  "notes": "**Less ghosting on the Library screen.** When a dialog closes over the Library (an update, Library Sync, backup and so on), or you come back to it from another screen, it now gives the screen a quick refresh so the dialog's outline doesn't linger.\n\n**A cleaner logo on the second tablet.** When the master goes to its Library, the second tablet now clears its screen a second time under the logo, so the last page of music no longer shows faintly behind it.\n\nIf you use two tablets together, update both."
 }
