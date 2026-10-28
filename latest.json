@@ -1,6 +1,6 @@
 {
-  "versionCode": 242,
-  "versionName": "2.42",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.42/obbligato-2.42.apk",
-  "notes": "**One refresh on the second tablet, not two.** When the master goes back to its Library, the second tablet refreshes its screen once under the logo again, instead of twice.\n\nIf you use two tablets together, update both."
+  "versionCode": 243,
+  "versionName": "2.43",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.43/obbligato-2.43.apk",
+  "notes": "**A gentler refresh on the Library.** Coming back to the Library from a piece, or closing a dialog there, now gives one quick blink instead of two big ones.\n\nIf you use two tablets together, update both."
 }
