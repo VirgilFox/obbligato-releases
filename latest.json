@@ -1,6 +1,6 @@
 {
-  "versionCode": 247,
-  "versionName": "2.47",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.47/obbligato-2.47.apk",
-  "notes": "**A clearer tab menu.** Long-pressing a piece's tab now opens a bigger menu in the same style as Settings and the piston stamp menu: the piece's title at the top, Rename and Tab order as large rows, and Close all tabs set apart in red (it still asks first).\n\nIf you use two tablets together, update both."
+  "versionCode": 248,
+  "versionName": "2.48",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.48/obbligato-2.48.apk",
+  "notes": "**A clearer playlist menu.** Long-pressing a playlist's tab now opens its piece list in the same style as Settings and the piston stamp menu: the playlist's name at the top, bigger rows with the current piece in bold, Expand to tabs and Tab order as large buttons, and Close all tabs set apart in red (it still asks first).\n\nIf you use two tablets together, update both."
 }
