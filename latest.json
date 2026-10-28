@@ -1,6 +1,6 @@
 {
-  "versionCode": 245,
-  "versionName": "2.45",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.45/obbligato-2.45.apk",
-  "notes": "**Search finds every word.** Each word you type is now matched on its own, in any order, across the title and composer, so \"Bach to\" finds Bach's Toccatas.\n\n**Sort by Imported.** A new \"Imported\" button in the Library's sort row lists the newest imports first. \"Recent\" still means recently opened.\n\n**Clearing the search puts the keyboard away.**\n\nIf you use two tablets together, update both."
+  "versionCode": 246,
+  "versionName": "2.46",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.46/obbligato-2.46.apk",
+  "notes": "**Choose the sizes your pen and highlighter start at.** Settings > Pen and edit mode now has \"Starting sizes\". The pen and highlighter begin at those sizes every time Obbligato opens. Choosing a size in the reader still changes it until the app is closed.\n\nIf you use two tablets together, update both."
 }
