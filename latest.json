@@ -1,6 +1,6 @@
 {
-  "versionCode": 239,
-  "versionName": "2.39",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.39/obbligato-2.39.apk",
-  "notes": "**A new Settings screen.** Settings are now grouped into sections (Page turning, Pen and edit mode, Sidebar tools, Tablet and stylus, Troubleshooting), with bigger controls and clear Off/On choices. Sidebar tools are tiles you tap to show or hide; \"Change order\" opens the drag list.\n\n**Send or save troubleshooting logs.** Settings > Troubleshooting can now email the recording to Continuo Labs support, or save it to a file (including Google Drive, if it is installed). On the master, the other tablet's recording is fetched and included too.\n\n**A bigger, clearer piston stamp menu.** Every setting is a box you can tap, the memory level is shown up front, and picking a piston number closes the menu. Stops are tiles laid out like the console: reeds at the top, low stops along the bottom.\n\n**Cleanup filters can be combined.** Tapping the cleanup button opens a list, so you can use Black and White and Darker together.\n\n**Refresh an organ from the OHS Pipe Organ Database.** An organ you already have can pull its updated stop list without losing any registrations. Couplers are now included and can be recorded in a registration.\n\n**Fixes:** a piston could repeat a general number when it rolled onto the next memory level; stops without a pitch could show the word \"null\"; and several small fixes to edit mode and the sidebar.\n\nIf you use two tablets together, update both."
+  "versionCode": 240,
+  "versionName": "2.40",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.40/obbligato-2.40.apk",
+  "notes": "**The page-turn strips at full size.** In Settings > Page turning, a bar along the bottom of the screen now shows the turn strips edge to edge at their real width, so you can see exactly where a tap will turn the page. The – and + buttons change it.\n\n**Clearer headings in Settings.** The headings within each section are larger and bolder, so each group of settings is easy to find.\n\nIf you use two tablets together, update both."
 }
