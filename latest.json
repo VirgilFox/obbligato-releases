@@ -1,6 +1,6 @@
 {
-  "versionCode": 252,
-  "versionName": "2.52",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.52/obbligato-2.52.apk",
-  "notes": "**Nothing new to use in this one.** It exists so the redesigned update screen from 2.51 can be seen: the new version as the heading, your version below it, and a bullet for each item.\n\n**Everything from 2.51 is unchanged.** You can install it or skip it."
+  "versionCode": 253,
+  "versionName": "2.53",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.53/obbligato-2.53.apk",
+  "notes": "**Second tablet can write again.** Since 2.49, after a visit to the Library the second tablet's pen could stop writing whenever the first tablet put it into edit mode, and stay that way even after restarting. Coming back to a piece now switches the pen back on properly.\n\nIf you use two tablets together, update both."
 }
