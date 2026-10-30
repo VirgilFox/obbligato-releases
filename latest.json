@@ -1,6 +1,6 @@
 {
-  "versionCode": 251,
-  "versionName": "2.51",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.51/obbligato-2.51.apk",
-  "notes": "**A clearer update screen.** The new version number is now the big heading, with the version you have in smaller grey text just below it. The notes are in a box with a bullet for each item, and the buttons are larger. You will see this the next time an update comes along.\n\nIf you use two tablets together, update both."
+  "versionCode": 252,
+  "versionName": "2.52",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.52/obbligato-2.52.apk",
+  "notes": "**Nothing new to use in this one.** It exists so the redesigned update screen from 2.51 can be seen: the new version as the heading, your version below it, and a bullet for each item.\n\n**Everything from 2.51 is unchanged.** You can install it or skip it."
 }
