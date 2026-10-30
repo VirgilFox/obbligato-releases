@@ -1,6 +1,6 @@
 {
-  "versionCode": 253,
-  "versionName": "2.53",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.53/obbligato-2.53.apk",
-  "notes": "**Second tablet can write again.** Since 2.49, after a visit to the Library the second tablet's pen could stop writing whenever the first tablet put it into edit mode, and stay that way even after restarting. Coming back to a piece now switches the pen back on properly.\n\nIf you use two tablets together, update both."
+  "versionCode": 254,
+  "versionName": "2.54",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.54/obbligato-2.54.apk",
+  "notes": "**Tagging after an import.** The \"Tag these pieces?\" window now starts with the cursor in the search box and the keyboard up, the same as Tags on a single piece. \"+ Add new tag\" does the same."
 }
