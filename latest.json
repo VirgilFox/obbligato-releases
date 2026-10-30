@@ -1,6 +1,6 @@
 {
-  "versionCode": 248,
-  "versionName": "2.48",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.48/obbligato-2.48.apk",
-  "notes": "**A clearer playlist menu.** Long-pressing a playlist's tab now opens its piece list in the same style as Settings and the piston stamp menu: the playlist's name at the top, bigger rows with the current piece in bold, Expand to tabs and Tab order as large buttons, and Close all tabs set apart in red (it still asks first).\n\nIf you use two tablets together, update both."
+  "versionCode": 249,
+  "versionName": "2.49",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.49/obbligato-2.49.apk",
+  "notes": "**Two-tablet fix.** Switching the second tablet out of double mode and back in now reconnects properly. Before, it could end up only half connected: page turns on the second tablet never reached the first, and it kept snapping back to the first tablet's page.\n\n**Tab order.** The screen has the new look, and the pen no longer draws on the page underneath it (which also stopped your finger working until you closed it).\n\n**Tags.** The cursor starts in the search box and the keyboard comes up by itself, then goes away when you close the screen.\n\n**Crop.** After \"Apply to all pages\" you go straight back to the reader, no need to tap Done.\n\nIf you use two tablets together, update both."
 }
