@@ -1,6 +1,6 @@
 {
-  "versionCode": 250,
-  "versionName": "2.50",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.50/obbligato-2.50.apk",
-  "notes": "**Two-tablet fix, second try.** Switching the second tablet out of double mode and back in now reconnects properly. When you switch it off, it tells the first tablet it is leaving, and the first tablet starts looking for it again, so page turns go both ways once they reconnect. (2.49's version of this fix did not work.)\n\nIf you use two tablets together, update both."
+  "versionCode": 251,
+  "versionName": "2.51",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.51/obbligato-2.51.apk",
+  "notes": "**A clearer update screen.** The new version number is now the big heading, with the version you have in smaller grey text just below it. The notes are in a box with a bullet for each item, and the buttons are larger. You will see this the next time an update comes along.\n\nIf you use two tablets together, update both."
 }
