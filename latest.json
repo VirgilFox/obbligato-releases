@@ -1,6 +1,6 @@
 {
-  "versionCode": 260,
-  "versionName": "2.60",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.60/obbligato-2.60.apk",
-  "notes": "**Updates reach the second tablet reliably.** An app update handed from the first tablet to the second now waits for any piece still being sent in the background, instead of failing, and takes priority over the next one.\n\nBefore installing this one on the first tablet, check the Library isn't showing \"Syncing to slave\"."
+  "versionCode": 261,
+  "versionName": "2.61",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.61/obbligato-2.61.apk",
+  "notes": "**Roomier filter buttons.** Composer, Genre, Difficulty and More… next to Filter in the Library have a little more space around their words."
 }
