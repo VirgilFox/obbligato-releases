@@ -1,6 +1,6 @@
 {
-  "versionCode": 257,
-  "versionName": "2.57",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.57/obbligato-2.57.apk",
-  "notes": "**Adding pieces to a playlist.** The window now opens with the cursor in the search box and the keyboard up, has the Library's Recent, Imported, A-Z and Tags buttons (starting on Recent), searches the same way the Library does, and shows pieces in the new Library style. Tap anywhere on a row to tick it.\n\n**Playlist editor.** A proper heading, bold titles, a line between pieces and the numbers lined up.\n\n**The app's own look everywhere.** Buttons, tick boxes, switches, sliders and text boxes that were still showing stock Android styling now match the rest of the app. That includes the Home button in the reader and the blue page buttons beside it.\n\n**After a Library Sync.** The questions at the end have \"Restore all here\" and \"Delete all here too\" buttons, and answering one piece no longer makes the buttons below it jump."
+  "versionCode": 258,
+  "versionName": "2.58",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.58/obbligato-2.58.apk",
+  "notes": "**Clearer lines in the Library.** The lines between pieces are now dark enough to see on this screen, in the Library and in the playlist windows.\n\n**Steadier Library while syncing.** \"Syncing to slave\" now sits on the same line as the piece count, so the list no longer jumps when it appears and disappears.\n\n**White reader edges.** The strips behind the page slider, the tabs and the edit-mode sidebar are now white like the rest of the app."
 }
