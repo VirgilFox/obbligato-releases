@@ -1,6 +1,6 @@
 {
-  "versionCode": 254,
-  "versionName": "2.54",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.54/obbligato-2.54.apk",
-  "notes": "**Tagging after an import.** The \"Tag these pieces?\" window now starts with the cursor in the search box and the keyboard up, the same as Tags on a single piece. \"+ Add new tag\" does the same."
+  "versionCode": 255,
+  "versionName": "2.55",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.55/obbligato-2.55.apk",
+  "notes": "**Steadier metronome.** The click now keeps time on the tablet's own audio clock, so page turns and other activity can no longer make it blip.\n\n**New pieces go to the second tablet by themselves.** When two tablets are paired, a piece imported on the first tablet is sent to the second quietly in the background while you are in the Library, so it opens straight away the first time. The Library shows \"Syncing to slave: 3 of 12\" while pieces are going across. Pieces imported before this update are not included; run Library Sync once to catch up.\n\n**Deletions follow too.** Deleting a piece on the first tablet now deletes it on the second. If the second tablet is off at the time, it catches up the next time they pair.\n\n**Switching pieces during a transfer.** If you moved to another piece while a new one was still arriving on the second tablet, it could open the old piece and get stuck there. It now stays with what the first tablet is showing.\n\nIf you use two tablets together, update both."
 }
