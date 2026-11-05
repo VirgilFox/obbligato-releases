@@ -1,6 +1,6 @@
 {
-  "versionCode": 264,
-  "versionName": "2.64",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.64/obbligato-2.64.apk",
-  "notes": "**Page numbers follow to the slave.** Changing a piece's page numbering on the Reorder screen (\"Set Pg #\") now reaches the slave straight away in dual mode, so page numbers, the page label and links placed on the slave all use the new numbering. Update both tablets."
+  "versionCode": 265,
+  "versionName": "2.65",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.65/obbligato-2.65.apk",
+  "notes": "**Page number in the corner.** While reading, the page number now shows in a bottom corner — bottom left on the master, bottom right on the slave — and disappears in edit mode.\n\n**Playlists window, tidied.** Each playlist has a proper play button beside its name and piece count, with lines between rows like the Library. The Start, ✕ and drag buttons now line up in columns, and \"+ Add pieces\" opens the new picker (Recent, Imported, A-Z, Tags). \"Open in tabs\" has left the ⋯ menu — open it from the reader instead."
 }
