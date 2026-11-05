@@ -1,6 +1,6 @@
 {
-  "versionCode": 259,
-  "versionName": "2.59",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.59/obbligato-2.59.apk",
-  "notes": "**Names follow to the second tablet.** Renaming a piece on the first tablet now renames it on the second: straight away if they are paired, otherwise the next time they pair. Opening a piece in dual mode also brings the second tablet's name into line.\n\n**Library tidying.** Tag outlines have their bottom edge back, page counts say \"pages\", and the Recent, Imported and Composer buttons have a little more room.\n\nIf you use two tablets together, update both."
+  "versionCode": 260,
+  "versionName": "2.60",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.60/obbligato-2.60.apk",
+  "notes": "**Updates reach the second tablet reliably.** An app update handed from the first tablet to the second now waits for any piece still being sent in the background, instead of failing, and takes priority over the next one.\n\nBefore installing this one on the first tablet, check the Library isn't showing \"Syncing to slave\"."
 }
