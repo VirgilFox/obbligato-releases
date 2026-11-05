@@ -1,6 +1,6 @@
 {
-  "versionCode": 262,
-  "versionName": "2.62",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.62/obbligato-2.62.apk",
-  "notes": "**Roomier Playlists button.** The Playlists button at the top of the Library has a little more space around its word, matching the buttons beside it."
+  "versionCode": 263,
+  "versionName": "2.63",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.63/obbligato-2.63.apk",
+  "notes": "**Capital letters when naming things.** When you type a name — a new ink layer, a piece title, a playlist, a tag, a bookmark, an organ or a stop — the keyboard now starts with Shift on and turns it back on after each space. Searches are unchanged."
 }
