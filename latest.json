@@ -1,6 +1,6 @@
 {
-  "versionCode": 263,
-  "versionName": "2.63",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.63/obbligato-2.63.apk",
-  "notes": "**Capital letters when naming things.** When you type a name — a new ink layer, a piece title, a playlist, a tag, a bookmark, an organ or a stop — the keyboard now starts with Shift on and turns it back on after each space. Searches are unchanged."
+  "versionCode": 264,
+  "versionName": "2.64",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.64/obbligato-2.64.apk",
+  "notes": "**Page numbers follow to the slave.** Changing a piece's page numbering on the Reorder screen (\"Set Pg #\") now reaches the slave straight away in dual mode, so page numbers, the page label and links placed on the slave all use the new numbering. Update both tablets."
 }
