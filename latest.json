@@ -1,6 +1,6 @@
 {
-  "versionCode": 258,
-  "versionName": "2.58",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.58/obbligato-2.58.apk",
-  "notes": "**Clearer lines in the Library.** The lines between pieces are now dark enough to see on this screen, in the Library and in the playlist windows.\n\n**Steadier Library while syncing.** \"Syncing to slave\" now sits on the same line as the piece count, so the list no longer jumps when it appears and disappears.\n\n**White reader edges.** The strips behind the page slider, the tabs and the edit-mode sidebar are now white like the rest of the app."
+  "versionCode": 259,
+  "versionName": "2.59",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.59/obbligato-2.59.apk",
+  "notes": "**Names follow to the second tablet.** Renaming a piece on the first tablet now renames it on the second: straight away if they are paired, otherwise the next time they pair. Opening a piece in dual mode also brings the second tablet's name into line.\n\n**Library tidying.** Tag outlines have their bottom edge back, page counts say \"pages\", and the Recent, Imported and Composer buttons have a little more room.\n\nIf you use two tablets together, update both."
 }
