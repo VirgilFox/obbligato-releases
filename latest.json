@@ -1,6 +1,6 @@
 {
-  "versionCode": 266,
-  "versionName": "2.66",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.66/obbligato-2.66.apk",
-  "notes": "**Metronome buttons appear straight away.** A second (or later) metronome button on a page now shows the moment you place it, and changing a button's tempo updates it right away, instead of waiting until you turned the page and came back."
+  "versionCode": 267,
+  "versionName": "2.67",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.67/obbligato-2.67.apk",
+  "notes": "**Piston stamp: General or Divisional from the tool.** The Piston Stamp icon now shows what it will place: a triangle for a General, a circle for a Divisional. Tap the icon again to switch. It goes back to General when you change tools or leave edit mode.\n\n**Placing a Divisional asks for its division and number.** Tap a division, then a number, and it's done. A divisional stays on the memory level you're working on, even when the generals' next 1 would have rolled onto a new level, and doesn't show the level badge.\n\n**Warning when a memory level is already taken.** Setting a piston's memory level now warns you if another piece already uses that level on this organ (or has it as its home level), the same way choosing a number already does."
 }
