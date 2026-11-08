@@ -1,6 +1,6 @@
 {
-  "versionCode": 268,
-  "versionName": "2.68",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.68/obbligato-2.68.apk",
-  "notes": "**Pages are now ready in both directions.** Obbligato used to prepare about 11 pages ahead but only 2 behind, so turning back for a repeat soon hit pages that still had to be drawn. It now prepares an even number each way (about 7 ahead and 7 behind), and uses a little more memory to fit them."
+  "versionCode": 269,
+  "versionName": "2.69",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.69/obbligato-2.69.apk",
+  "notes": "**Clearer divisional pistons.** The circle around a divisional piston's number is smaller, so there is less empty space around the number (the number itself is the same size), and the division letters underneath are bigger."
 }
