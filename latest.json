@@ -1,6 +1,6 @@
 {
-  "versionCode": 269,
-  "versionName": "2.69",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.69/obbligato-2.69.apk",
-  "notes": "**Clearer divisional pistons.** The circle around a divisional piston's number is smaller, so there is less empty space around the number (the number itself is the same size), and the division letters underneath are bigger."
+  "versionCode": 270,
+  "versionName": "2.70",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.70/obbligato-2.70.apk",
+  "notes": "**Quicker changes between pieces.** Changing pieces now does one screen flash instead of two.\n\n**Quicker out of edit mode.** The second screen refresh when leaving edit mode is gone.\n\n**Bluetooth pedal.** Connecting a pedal no longer resets the screen, which could send expanded playlist tabs to the wrong page. You get a single screen flash to confirm it connected."
 }
