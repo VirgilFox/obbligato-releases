@@ -1,6 +1,6 @@
 {
-  "versionCode": 270,
-  "versionName": "2.70",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.70/obbligato-2.70.apk",
-  "notes": "**Quicker changes between pieces.** Changing pieces now does one screen flash instead of two.\n\n**Quicker out of edit mode.** The second screen refresh when leaving edit mode is gone.\n\n**Bluetooth pedal.** Connecting a pedal no longer resets the screen, which could send expanded playlist tabs to the wrong page. You get a single screen flash to confirm it connected."
+  "versionCode": 271,
+  "versionName": "2.71",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.71/obbligato-2.71.apk",
+  "notes": "**Import has its own button.** On the Library screen, Import now sits next to Playlists, and the rest of the menu opens from the gear beside it.\n\n**Tap again for menus.** Tap a tool that is already selected, or the tab you are on, to open its menu. No more pressing and holding.\n\n**Tidier tab menu.** The options are spaced further apart, and Close all tabs no longer asks you to confirm.\n\n**Two tablets: open a piece on the other one.** In Dual Mode, a tab's menu can send that piece to the other tablet to show on its own. Tap Rejoin, at the bottom of that tablet's screen, to bring it back as a tab.\n\n**A third screen.** A Samsung tablet running Obbligato can join a Dual Mode pair as a third screen."
 }
