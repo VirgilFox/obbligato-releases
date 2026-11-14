@@ -1,6 +1,6 @@
 {
-  "versionCode": 271,
-  "versionName": "2.71",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.71/obbligato-2.71.apk",
-  "notes": "**Import has its own button.** On the Library screen, Import now sits next to Playlists, and the rest of the menu opens from the gear beside it.\n\n**Tap again for menus.** Tap a tool that is already selected, or the tab you are on, to open its menu. No more pressing and holding.\n\n**Tidier tab menu.** The options are spaced further apart, and Close all tabs no longer asks you to confirm.\n\n**Two tablets: open a piece on the other one.** In Dual Mode, a tab's menu can send that piece to the other tablet to show on its own. Tap Rejoin, at the bottom of that tablet's screen, to bring it back as a tab.\n\n**A third screen.** A Samsung tablet running Obbligato can join a Dual Mode pair as a third screen."
+  "versionCode": 272,
+  "versionName": "2.72",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.72/obbligato-2.72.apk",
+  "notes": "**A tidier Library.** The name is back at the top. Playlists and the list/grid buttons have moved to the second row, under Import and the gear, and the search box is shorter.\n\n**One Filter button.** All the filters now open from a single Filter button, which shows how many are on.\n\n**Easier \"⋯\" on each piece.** The button is bigger, and tapping just beside it opens the menu instead of the piece.\n\n**Pieces send in order.** When a piece has to go to the other tablets, they now wait in one line on the master: the piece you opened goes first, then the slave before a third screen, then anything syncing in the background. No more sends that collide and fail.\n\n**Labeled memory levels.** Placing a piston on a memory level you have given a label now warns you, as it already did for levels used by other pieces.\n\n**Third screen.** On a tablet set as the third screen, the Library's Reader button always takes you back to the 3rd page, even with nothing of its own open."
 }
