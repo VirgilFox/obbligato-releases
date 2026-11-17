@@ -1,6 +1,6 @@
 {
-  "versionCode": 272,
-  "versionName": "2.72",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.72/obbligato-2.72.apk",
-  "notes": "**A tidier Library.** The name is back at the top. Playlists and the list/grid buttons have moved to the second row, under Import and the gear, and the search box is shorter.\n\n**One Filter button.** All the filters now open from a single Filter button, which shows how many are on.\n\n**Easier \"⋯\" on each piece.** The button is bigger, and tapping just beside it opens the menu instead of the piece.\n\n**Pieces send in order.** When a piece has to go to the other tablets, they now wait in one line on the master: the piece you opened goes first, then the slave before a third screen, then anything syncing in the background. No more sends that collide and fail.\n\n**Labeled memory levels.** Placing a piston on a memory level you have given a label now warns you, as it already did for levels used by other pieces.\n\n**Third screen.** On a tablet set as the third screen, the Library's Reader button always takes you back to the 3rd page, even with nothing of its own open."
+  "versionCode": 273,
+  "versionName": "2.73",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.73/obbligato-2.73.apk",
+  "notes": "**Links say more.** A link button now has two lines: the piece's title (much less of it cut off) and the page. A link into a hymnal says \"Hymn 342\". The second line also says when a link is two-way, and when it opens on one tablet only.\n\n**Choose where a link opens.** With the Link tool selected, tap a link with the pen. Its menu now has \"Open on slave\" and \"Open on device 3\". Tick one and a tap on that link opens the piece on that tablet only. The setting syncs to every tablet. The boxes are grayed out when they don't apply, such as on a single tablet. If the chosen tablet isn't connected, the link opens on the pair as usual.\n\n**Library count on the right.** The number of pieces in your library now sits at the right of the screen."
 }
