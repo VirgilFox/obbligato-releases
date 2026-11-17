@@ -1,6 +1,6 @@
 {
-  "versionCode": 273,
-  "versionName": "2.73",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.73/obbligato-2.73.apk",
-  "notes": "**Links say more.** A link button now has two lines: the piece's title (much less of it cut off) and the page. A link into a hymnal says \"Hymn 342\". The second line also says when a link is two-way, and when it opens on one tablet only.\n\n**Choose where a link opens.** With the Link tool selected, tap a link with the pen. Its menu now has \"Open on slave\" and \"Open on device 3\". Tick one and a tap on that link opens the piece on that tablet only. The setting syncs to every tablet. The boxes are grayed out when they don't apply, such as on a single tablet. If the chosen tablet isn't connected, the link opens on the pair as usual.\n\n**Library count on the right.** The number of pieces in your library now sits at the right of the screen."
+  "versionCode": 274,
+  "versionName": "2.74",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.74/obbligato-2.74.apk",
+  "notes": "**New look for links.** Link buttons are now white arrow tags with a black outline and a black arrow tip pointing where they go, in place of the see-through blue. The two lines of text are black."
 }
