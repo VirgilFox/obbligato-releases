@@ -1,6 +1,6 @@
 {
-  "versionCode": 275,
-  "versionName": "2.75",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.75/obbligato-2.75.apk",
-  "notes": "**End of a piece on the slave.** If a page marked as a single-page turn left the piece's last page on the master, the slave stayed on the page before it. It now shows a blank page, and turning from there works as usual.\n\n**Pistons.** Pedal divisionals now show \"PD\" instead of \"PE\". Switching a General to Divisional gives it that division's lowest free number, and switching back gives it the lowest free General."
+  "versionCode": 276,
+  "versionName": "2.76",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.76/obbligato-2.76.apk",
+  "notes": "**Marks stay where you write them.** Writing in performance mode, a stroke started just as the sidebar came up could be saved in the wrong spot on the master, and it only showed as moved after reopening the piece. Each stroke is now placed on the page as it was on screen when the pen touched down."
 }
