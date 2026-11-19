@@ -1,6 +1,6 @@
 {
-  "versionCode": 277,
-  "versionName": "2.77",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.77/obbligato-2.77.apk",
-  "notes": "**Crop to the screen's shape.** The crop screen has a new \"Shape\" button. \"Shape: free\" works as before. \"Shape: screen\" locks the crop box to this tablet's screen shape, so the cropped page fills the screen with no white bars. Drag any corner and the box keeps that shape; the opposite corner stays put."
+  "versionCode": 278,
+  "versionName": "2.78",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.78/obbligato-2.78.apk",
+  "notes": "**Move the crop box.** On the crop screen, touch anywhere inside the box (not a corner) and slide it to move the whole crop. Its size stays the same, so \"Shape: screen\" keeps its shape. Corners still resize as before."
 }
