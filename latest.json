@@ -1,6 +1,6 @@
 {
-  "versionCode": 276,
-  "versionName": "2.76",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.76/obbligato-2.76.apk",
-  "notes": "**Marks stay where you write them.** Writing in performance mode, a stroke started just as the sidebar came up could be saved in the wrong spot on the master, and it only showed as moved after reopening the piece. Each stroke is now placed on the page as it was on screen when the pen touched down."
+  "versionCode": 277,
+  "versionName": "2.77",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.77/obbligato-2.77.apk",
+  "notes": "**Crop to the screen's shape.** The crop screen has a new \"Shape\" button. \"Shape: free\" works as before. \"Shape: screen\" locks the crop box to this tablet's screen shape, so the cropped page fills the screen with no white bars. Drag any corner and the box keeps that shape; the opposite corner stays put."
 }
