@@ -1,6 +1,6 @@
 {
-  "versionCode": 278,
-  "versionName": "2.78",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.78/obbligato-2.78.apk",
-  "notes": "**Move the crop box.** On the crop screen, touch anywhere inside the box (not a corner) and slide it to move the whole crop. Its size stays the same, so \"Shape: screen\" keeps its shape. Corners still resize as before."
+  "versionCode": 279,
+  "versionName": "2.79",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.79/obbligato-2.79.apk",
+  "notes": "**Turning from the slave at the end.** When the last page of a piece lands on the master, a forward turn on the slave was refused. It now turns, the same as turning on the master."
 }
