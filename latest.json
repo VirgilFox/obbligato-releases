@@ -1,6 +1,6 @@
 {
-  "versionCode": 279,
-  "versionName": "2.79",
-  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.79/obbligato-2.79.apk",
-  "notes": "**Turning from the slave at the end.** When the last page of a piece lands on the master, a forward turn on the slave was refused. It now turns, the same as turning on the master."
+  "versionCode": 280,
+  "versionName": "2.80",
+  "url": "https://github.com/VirgilFox/obbligato-releases/releases/download/v2.80/obbligato-2.80.apk",
+  "notes": "**Quicker tool changes.** The highlight on the tool you pick used to take up to half a second to appear, and how long varied from tap to tap. It now shows straight away.\n\n**Import MobileSheets**, in the gear menu on the Library. Pick a MobileSheets backup file (.msb) and its pieces are added to your library, along with their ink, crops, bookmarks, composers and genres, and its setlists come in as playlists. Nothing already in your library is replaced, and a piece you already have is skipped."
 }
